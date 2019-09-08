@@ -1,2 +1,2 @@
-# -FancyTours--Dijkstra-s-algorithm
+# FancyTours-Dijkstras-algorithm
 Fancy tours
